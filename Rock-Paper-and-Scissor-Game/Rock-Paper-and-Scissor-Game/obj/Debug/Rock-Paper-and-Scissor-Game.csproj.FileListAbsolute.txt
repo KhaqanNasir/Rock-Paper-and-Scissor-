@@ -1,0 +1,10 @@
+D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\bin\Debug\Rock-Paper-and-Scissor-Game.exe.config
+D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\bin\Debug\Rock-Paper-and-Scissor-Game.exe
+D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\bin\Debug\Rock-Paper-and-Scissor-Game.pdb
+D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock-Paper-and-Scissor-Game.csproj.AssemblyReference.cache
+D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock_Paper_and_Scissor_Game.Form1.resources
+D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock_Paper_and_Scissor_Game.Properties.Resources.resources
+D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock-Paper-and-Scissor-Game.csproj.GenerateResource.cache
+D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock-Paper-and-Scissor-Game.csproj.CoreCompileInputs.cache
+D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock-Paper-and-Scissor-Game.exe
+D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock-Paper-and-Scissor-Game.pdb
