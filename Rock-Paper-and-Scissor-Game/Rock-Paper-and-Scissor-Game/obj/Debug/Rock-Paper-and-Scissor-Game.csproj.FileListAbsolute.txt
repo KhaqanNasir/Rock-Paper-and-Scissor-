@@ -8,3 +8,4 @@ D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug
 D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock-Paper-and-Scissor-Game.csproj.CoreCompileInputs.cache
 D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock-Paper-and-Scissor-Game.exe
 D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock-Paper-and-Scissor-Game.pdb
+D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock_Paper_and_Scissor_Game.Form2.resources
