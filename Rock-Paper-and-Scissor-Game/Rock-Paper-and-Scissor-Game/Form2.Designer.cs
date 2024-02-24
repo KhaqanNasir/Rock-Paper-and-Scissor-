@@ -124,7 +124,7 @@
             this.label7.BackColor = System.Drawing.Color.Transparent;
             this.label7.Font = new System.Drawing.Font("Tahoma", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.IndianRed;
-            this.label7.Location = new System.Drawing.Point(679, 21);
+            this.label7.Location = new System.Drawing.Point(711, 153);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(480, 97);
             this.label7.TabIndex = 13;
@@ -137,7 +137,7 @@
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Candara", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.Black;
-            this.label5.Location = new System.Drawing.Point(782, 240);
+            this.label5.Location = new System.Drawing.Point(774, 262);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(377, 97);
             this.label5.TabIndex = 14;
@@ -234,6 +234,7 @@
             this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button4.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 

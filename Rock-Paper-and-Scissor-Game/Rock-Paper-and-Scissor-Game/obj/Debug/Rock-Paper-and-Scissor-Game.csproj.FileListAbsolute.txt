@@ -9,3 +9,7 @@ D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug
 D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock-Paper-and-Scissor-Game.exe
 D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock-Paper-and-Scissor-Game.pdb
 D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock_Paper_and_Scissor_Game.Form2.resources
+D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\bin\Debug\Rock-Paper-and-Scissor-Game.exe.manifest
+D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\bin\Debug\Rock-Paper-and-Scissor-Game.application
+D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock-Paper-and-Scissor-Game.exe.manifest
+D:\C# Programs\Rock-Paper-and-Scissor-Game\Rock-Paper-and-Scissor-Game\obj\Debug\Rock-Paper-and-Scissor-Game.application
